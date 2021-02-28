@@ -1,0 +1,4 @@
+<view>
+  <h1>读书</h1>
+  <navigator url="../home/home">回到首页</navigator>
+</view>

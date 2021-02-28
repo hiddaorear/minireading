@@ -1,0 +1,8 @@
+/**home.wxss**/
+
+page {
+  display: flex;
+  justify-content: center;
+  background: #f6f6f6;
+}
+

@@ -1,0 +1,9 @@
+page {
+  display: flex;
+  justify-content: center;
+  background: #f6f6f6;
+}
+
+.article {
+  padding: 10px 20px;
+}

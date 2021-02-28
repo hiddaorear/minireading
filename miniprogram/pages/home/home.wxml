@@ -1,0 +1,8 @@
+<!--index.wxml-->
+<view class="container">
+  <!-- home -->
+  <view class="list">
+    <navigator url="../piano/piano">钢琴</navigator>
+    <navigator url="../book/book">读书</navigator>
+  </view>
+</view>
